@@ -71,3 +71,7 @@ class Program
         }
     }
 }
+// Exceeding Requirement:
+// 1. Added a user name and greet the user.
+// 2. Added a method that displays the total charater
+//    count of the response in the journal entries.

@@ -1,3 +1,5 @@
+using System.Runtime.InteropServices;
+
 public class Resume
 {
     public string _name;
